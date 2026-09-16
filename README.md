@@ -1,0 +1,2 @@
+# fqtk
+fastq trim, merge 
