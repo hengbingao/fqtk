@@ -23,7 +23,7 @@ here and what doesn't.
 
 ```bash
 git clone https://github.com/hengbingao/fqtk.git
-cd fastq-toolkit
+cd fqtk
 pip install .
 ```
 
