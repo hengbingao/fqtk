@@ -23,8 +23,8 @@ otherwise everything falls back to Python's built-in `gzip` module.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/fastq-toolkit.git
-cd fastq-toolkit
+git clone https://github.com/hengbingao/fqtk
+cd fqtk
 pip install .
 ```
 
